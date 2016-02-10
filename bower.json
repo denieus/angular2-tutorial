@@ -1,0 +1,17 @@
+{
+    "name": "chat-app",
+    "authors": [
+        "Daniel Pereira"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "^3.3.6"
+    }
+}
